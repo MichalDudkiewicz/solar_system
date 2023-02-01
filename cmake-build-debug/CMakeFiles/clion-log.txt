@@ -1,0 +1,41 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/dudkiewm/School/Dev/solarSystem -B /Users/dudkiewm/School/Dev/solarSystem/cmake-build-debug
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+CMake Warning at /opt/homebrew/lib/cmake/Qt6/QtFeature.cmake:1249 (message):
+  This project was initially configured with the Qt feature "vulkan" set to
+  "OFF".  While loading the "Qt6::Gui" package, the value of the feature has
+  changed to "ON".  That might cause a project rebuild due to updated C++
+  headers.
+
+  In case of build issues, consider removing the CMakeCache.txt file and
+  reconfiguring the project.
+Call Stack (most recent call first):
+  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake:120 (qt_make_features_available)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeFindDependencyMacro.cmake:47 (find_package)
+  /opt/homebrew/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:108 (find_dependency)
+  /opt/homebrew/lib/cmake/Qt6Multimedia/Qt6MultimediaDependencies.cmake:39 (_qt_internal_find_qt_dependencies)
+  /opt/homebrew/lib/cmake/Qt6Multimedia/Qt6MultimediaConfig.cmake:40 (include)
+  /opt/homebrew/lib/cmake/Qt6/Qt6Config.cmake:157 (find_package)
+  CMakeLists.txt:22 (find_package)
+
+
+CMake Warning at /opt/homebrew/lib/cmake/Qt6/QtFeature.cmake:1249 (message):
+  This project was initially configured with the Qt feature "system_harfbuzz"
+  set to "OFF".  While loading the "Qt6::Gui" package, the value of the
+  feature has changed to "ON".  That might cause a project rebuild due to
+  updated C++ headers.
+
+  In case of build issues, consider removing the CMakeCache.txt file and
+  reconfiguring the project.
+Call Stack (most recent call first):
+  /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake:120 (qt_make_features_available)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeFindDependencyMacro.cmake:47 (find_package)
+  /opt/homebrew/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:108 (find_dependency)
+  /opt/homebrew/lib/cmake/Qt6Multimedia/Qt6MultimediaDependencies.cmake:39 (_qt_internal_find_qt_dependencies)
+  /opt/homebrew/lib/cmake/Qt6Multimedia/Qt6MultimediaConfig.cmake:40 (include)
+  /opt/homebrew/lib/cmake/Qt6/Qt6Config.cmake:157 (find_package)
+  CMakeLists.txt:22 (find_package)
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/dudkiewm/School/Dev/solarSystem/cmake-build-debug

@@ -1,0 +1,12 @@
+# ninja log v5
+6	226	1667143693391644457	CMakeFiles/OpenGL.dir/vendor/include/stb_image/stb_image.cpp.o	6c618760975cc0b8
+6	417	1667143693582175558	CMakeFiles/OpenGL.dir/src/VertexArray.cpp.o	99be57a7ca621829
+6	380	1667143693545005365	CMakeFiles/OpenGL.dir/src/VertexBuffer.cpp.o	9f54e6df13a605bb
+815	894	1667218222945811557	OpenGL	ee30bde7f1f28ecf
+5	363	1667143693528051959	CMakeFiles/OpenGL.dir/src/IndexBuffer.cpp.o	745a866332d18fee
+7	514	1667167419809367500	CMakeFiles/OpenGL.dir/src/Texture.cpp.o	7ad9fd7584904684
+6	815	1667218222863613591	CMakeFiles/OpenGL.dir/src/Application.cpp.o	4e56edb5016e2981
+7	514	1667167419809213335	CMakeFiles/OpenGL.dir/src/Renderer.cpp.o	20c09b87f565bc2e
+7	658	1667167419953976263	CMakeFiles/OpenGL.dir/src/Shader.cpp.o	e26589c841204763
+16	863	1675278037898408390	CMakeFiles/OpenGL.dir/src/Application.cpp.o	4e56edb5016e2981
+863	1133	1675278038171367328	OpenGL	ee30bde7f1f28ecf

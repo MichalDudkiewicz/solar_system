@@ -1,0 +1,3 @@
+/Users/dudkiewm/School/Dev/solarSystem/cmake-build-debug/CMakeFiles/OpenGL.dir
+/Users/dudkiewm/School/Dev/solarSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dudkiewm/School/Dev/solarSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
